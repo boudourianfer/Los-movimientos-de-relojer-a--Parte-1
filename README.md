@@ -1,1 +1,3 @@
-# Los-movimientos-de-relojer-a--Parte-1
+# Los-movimientos-de-relojería--Parte-1
+Examinando el dispositivo astrográfico con el objetivo de aplicarle un movimiento horario automático, se observa, ante todo, que durante la exposición se debe imprimir al eje polar una rotación en un único sentido, de acuerdo con el polo celeste (austral o boreal) elevado en el horizonte. En el primer caso, la rotación se produce en el mismo sentido que las agujas del reloj y, en el segundo, en sentido inverso.
+El movimiento rotacional del eje polar no necesita, en ningún momento, ser invertido durante la exposición fotográfica o la observación visual. Sin embargo, el eje debe poder independizarse del mecanismo de relojería para permitir los ajustes necesarios al enfocar en el anteojo guía y en la cámara la región del cielo a observar o fotografiar.
